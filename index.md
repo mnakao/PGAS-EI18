@@ -30,7 +30,7 @@ Camera-ready Deadline **(EXTENDED)**: **December 25, 2017**
 13:00 - 13:10 : Welcome  
 Mitsuhisa Sato (RIKEN AICS)
 
-13:10 - 14:00 : Keynote  
+13:10 - 14:00 : Keynote : Proposal of Interface for Runtime Memory Manipulation of Applications via PGAS-based Communication Library
 Takeshi Nanri (Kyushu University)
 
 14:00 - 14:30 : Recent Experiences in Using MPI-3 RMA in the DASH PGAS Runtime  
